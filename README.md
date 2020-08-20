@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MartinHahner88&hide_border=true&show_icons=true&line_height=30)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
