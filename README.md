@@ -1,7 +1,5 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MartinHahner88&hide_border=true&show_icons=true&line_height=30&hide=stars,commits)](https://github.com/MartinHahner88)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHahner88)](https://github.com/MartinHahner88)
-
 <!--
 **MartinHahner88/MartinHahner88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
