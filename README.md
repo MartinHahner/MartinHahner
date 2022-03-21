@@ -1,4 +1,10 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MartinHahner&hide_border=true&show_icons=true&line_height=30&hide=stars,commits)](https://github.com/MartinHahner)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinHahner&show_icons=true&theme=github_dark)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MartinHahner)
+
+
+
 
 <!--
 **MartinHahner/MartinHahner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
